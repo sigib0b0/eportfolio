@@ -10,12 +10,12 @@ export const About = () => {
       <div className={styles.content}>
         <img
           src={getImageUrl("about/aboutImage.png")}
-          alt="Me sitting with a laptop"
+          alt="Avatar sitting with a laptop"
           className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/data_eng_icon.png")} alt="Cursor icon" />
+            <img src={getImageUrl("about/data_eng_icon.png")} alt="Data Eng icon" />
             <div className={styles.aboutItemText}>
               <h3>Data Engineering</h3>
               <p>
@@ -24,7 +24,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/full_stack_icon.png")} alt="Server icon" />
+            <img src={getImageUrl("about/full_stack_icon.png")} alt="Full Stack icon" />
             <div className={styles.aboutItemText}>
               <h3>Full Stack Development</h3>
               <p>
@@ -33,7 +33,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/qa_eng_icon.png")} alt="UI icon" />
+            <img src={getImageUrl("about/qa_eng_icon.png")} alt="QA Eng icon" />
             <div className={styles.aboutItemText}>
               <h3>Quality Assurance Engineering</h3>
               <p>

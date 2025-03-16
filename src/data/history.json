@@ -21,7 +21,7 @@
     "startDate": "Aug, 2017",
     "endDate": "Aug, 2017",
     "experiences": ["Supply Chain Management", "Data Analysis"],
-    "imageSrc": "history/sword-apak.png"
+    "imageSrc": "history/ade.png"
   },
   {
     "role": "Intern",
@@ -29,6 +29,6 @@
     "startDate": "March, 2015",
     "endDate": "March, 2015",
     "experiences": ["Electrical Engineering", "C++ Programming"],
-    "imageSrc": "history/sword-apak.png"
+    "imageSrc": "history/sword_apak.png"
   }
 ]
