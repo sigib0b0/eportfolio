@@ -9,10 +9,10 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Christian</h1>
         <p className={styles.description}>
-          I'm a data engineer with over 5 years of experience using Python and
+          I'm a software engineer with over 5 years of experience using Python and
           Java. Reach out if you'd like to learn more!
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:chrisonish@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
