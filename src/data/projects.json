@@ -1,26 +1,32 @@
 [
   {
-    "title": "Project A",
+    "title": "Mihub Data Engineering",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Mihub is a platform designed to enhance project management efficiency. The team's focus was on data pipeline stability, system integrations, and feature development.",
+    "skills": ["Python", "SQL", "Airflow", "DBT", "Splunk", "AWS"]
   },
   {
-    "title": "Project B",
+    "title": "IRS-CI ETL Prototype",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project that focused on demonstrating the feasibility of ETL pipelines for data integration.",
+    "skills": ["AWS", "Python", "SQL", "Bash", "Airflow", "Docker"]
   },
   {
-    "title": "Project C",
+    "title": "Performance Evaluation Tool-Kit",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This project involved developing a Postgres database, enhancing system functionality with Docker Compose, and improving scenario editing capabilities.",
+    "skills": ["Python", "Flask", "SQL"]
+  },
+  {
+    "title": "Stock Market Data Investigation",
+    "imageSrc": "projects/project.png",
+    "description": "This personal project where I utilize data science and machine learning techniques to model stock price data.",
+    "skills": ["Python", "Jupyter", "Airflow", "SQL"]
+  },
+  {
+    "title": "QA Testing Automation",
+    "imageSrc": "projects/project.png",
+    "description": "This project involved writing unit tests to improve test coverage of Sopra's primary web application.",
+    "skills": ["Java", "Docker", "Spring Boot", "JUnit"]
   }
 ]

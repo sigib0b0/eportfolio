@@ -15,32 +15,29 @@ export const About = () => {
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
+            <img src={getImageUrl("about/data_eng_icon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Data Engineering</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+              I have experience in ETL pipeline development, data integration, and system optimization, and a strong focus on collaboration and process automation to enhance data reliability and efficiency.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <img src={getImageUrl("about/full_stack_icon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Full Stack Development</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+              I have experience as a Full Stack Developer, contributing to database design, API management, and front-end development while leveraging collaboration and agile methodologies to build scalable and efficient solutions.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+            <img src={getImageUrl("about/qa_eng_icon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Quality Assurance Engineering</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+              My experience in the QA Engineering role includes writing and executing  unit tests, ensuring software reliability, functionality, and adherence to engineering best practices
               </p>
             </div>
           </li>
